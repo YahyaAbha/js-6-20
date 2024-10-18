@@ -130,19 +130,62 @@
 // }
 
 
-let user = prompt("guess the number");
+// let user = prompt("guess the number");
+// let ran =  Math.round(Math.random()*10);
+// if (user === ran){
+//     console.log("“Bingo! Correct answer”.");
+// } else if (user == ran + 1){
+//     console.log("“Close enough to the correct answer”.");       
+// } else {
+//     console.log("try again");
+// }
+
+// let user  = prompt("Select the number");
+
+// if ( user/3 === 0){
+//     console.log("The number is divisible by 3");
+// } else{
+//     console.log("The number is not divisible by 3");
+// }
 
 
-let ran =  Math.round(Math.random()*10);
-if (user === ran){
-    console.log("“Bingo! Correct answer”.");
-} else if (user == ran + 1){
-    console.log("“Close enough to the correct answer”.");       
-} else {
-    console.log("try again");
-    
-}
+// let user  = prompt("Select the number");
 
+// if ( user/2 === 0){
+//     console.log("This is an even  number");
+// } else if (user/3 === 0){
+//     console.log("This is an odd number");
+// }
+
+
+// let T = prompt("Enter the tempereture");
+
+// if (T > 40){
+//     console.log("“It is too hot outside.”");
+// } else if (T > 30){
+//     console.log("“The Weather today is Normal.”");
+// } else if( T > 20){
+//     console.log("“Today’s Weather is cool.”");
+// } else if (T > 20){
+//     console.log("“OMG! Today’s weather is so Cool.”");
+// }
+
+
+
+
+// let firstNum = prompt("Enter first number");
+// let operation = prompt("+,-,*,/");
+// let secondNum = prompt("Enter second number");
+
+// if(operation === "+"){
+//     alert(parseInt(firstNum) + parseInt(secondNum));
+// }  else if (operation === "-"){
+//     alert(parseInt(firstNum) - parseInt(secondNum));
+// } else if (operation === "*"){
+//     alert(parseInt(firstNum) * parseInt(secondNum));
+// } else if (operation === "/"){
+//     alert(parseInt(firstNum) / parseInt(secondNum));
+// }
 
 
 
